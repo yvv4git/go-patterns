@@ -1,2 +1,3 @@
-# go-patterns
+# GO PATTERNS
+
 About design patterns on golang
