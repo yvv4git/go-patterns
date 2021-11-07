@@ -1,4 +1,4 @@
-package momento
+package memento
 
 // Editor - used as simple text editor
 type Editor struct {

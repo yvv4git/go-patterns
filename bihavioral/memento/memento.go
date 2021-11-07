@@ -1,4 +1,4 @@
-package momento
+package memento
 
 // Memento - contract for all mementos
 type Memento interface {

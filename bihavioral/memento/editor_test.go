@@ -1,4 +1,4 @@
-package momento
+package memento
 
 import (
 	"github.com/stretchr/testify/assert"

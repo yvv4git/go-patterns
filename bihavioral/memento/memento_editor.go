@@ -1,4 +1,4 @@
-package momento
+package memento
 
 // MementoEditor - some realisation of Memento
 type MementoEditor struct {
